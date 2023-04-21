@@ -1,4 +1,22 @@
-# Zad1
+## Zadanie 1
+
+W komponencie `app.component.html` powinny znajdować się dwa elementy:
+
+* div
+* button
+
+Zadaniem jest napisanie funkcji, która po kliknięciu spowoduje zmianę koloru tekstu diva. Zmiana koloru tekstu powinna odbyć się poprzez nadanie stylu wewnętrznego.
+
+## Zadanie 2
+
+W komponencie `app.component.html` powinny znajdować się dwa elementy:
+
+* div
+* button
+
+Zadaniem jest napisanie funkcji, która po kliknięciu spowoduje zmianę koloru tekstu diva. Zmiana koloru tekstu powinna odbyć się poprzez nadanie klasy CSS.
+Dodatkowo kolor tekstu powinien być losowany z tablicy kolorów.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 

@@ -1,2 +1,6 @@
-<div [style.color]="textColor">Lorem ipsum dolor sit amet</div>
+<div [style.color]="textColor">Zadanie #1 - Zmień kolor tekstu div'a przez nadanie stylu wewnętrznego</div>
 <button (click)="changeTextColor()">Zmień kolor tekstu</button>
+
+
+<div [class.color-yellowgreen]="yellowgreenisActive" [class.color-red]="redisActive" [class.color-blue]="blueisActive">Zadanie #2 - Zmień kolor tekstu div'a przez nadanie klasy w CSS</div>
+<button (click)="changeTextColorCSS()">Zmień kolor tekstu</button>
